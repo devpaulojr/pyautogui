@@ -3,4 +3,4 @@ Projeto de automação usando Python com as bibliotecas 'pyautogui' e 'pandas'. 
 
 OBS: Certifique-se de ter todas as bibliotecas instaladas. Caso esteja enfrentando problemas com a localização do clique errado, o arquivo no GitHub chamado 'clickpyautogui' mostrará a posição 'x' e 'y' do seu mouse.
 
- Créditos: ![Canal no youtube](https://www.youtube.com/@HashtagProgramacao)
+ Créditos: [Canal do Youtube](https://www.youtube.com/@HashtagProgramacao)
